@@ -2,6 +2,7 @@
   <dictionary name="keaga">
     <words>
       <w>playername</w>
+      <w>wordlist</w>
     </words>
   </dictionary>
 </component>
